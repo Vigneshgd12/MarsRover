@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79bdb6f6-e0b4-4764-bce5-050083ca6a46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y5qEicZ35GyPylccQxIq0zwy0O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Kotlin.com.snooper.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="java.snooper.Main" />
+      <module name="MarsRover" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.snooper.Main" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="MarsRover" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.snooper.Main" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Kotlin.com.snooper.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.snooper.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79bdb6f6-e0b4-4764-bce5-050083ca6a46" name="Default Changelist" comment="" />
+      <created>1582242692363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582242692363</updated>
+      <workItem from="1582242697904" duration="7656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1582251021369">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.832@0.0.1536.832" timestamp="1582251021369" />
+    <state width="478" height="466" key="DebuggerActiveHint" timestamp="1582252968045">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="478" height="466" key="DebuggerActiveHint/0.0.1536.832@0.0.1536.832" timestamp="1582252968045" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1582253822730">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1582253822730" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1582253822729">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1582253822729" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1582253822729">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1582253822729" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1582253822730">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1582253822730" />
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom" timestamp="1582253060917">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom/0.0.1536.832@0.0.1536.832" timestamp="1582253060917" />
+    <state width="1493" height="264" key="GridCell.Tab.1.center" timestamp="1582253060917">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.center/0.0.1536.832@0.0.1536.832" timestamp="1582253060917" />
+    <state width="1493" height="264" key="GridCell.Tab.1.left" timestamp="1582253060917">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.left/0.0.1536.832@0.0.1536.832" timestamp="1582253060917" />
+    <state width="1493" height="264" key="GridCell.Tab.1.right" timestamp="1582253060917">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.right/0.0.1536.832@0.0.1536.832" timestamp="1582253060917" />
+    <state x="499" y="173" key="extract.method.dialog" timestamp="1582245353706">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="499" y="173" key="extract.method.dialog/0.0.1536.832@0.0.1536.832" timestamp="1582245353706" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/snooper/Main.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/snooper/helper/RoverPositionHelper.kt</url>
+          <line>40</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
